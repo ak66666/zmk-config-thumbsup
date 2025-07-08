@@ -1,0 +1,9 @@
+file_format: "1"
+id: thumbsupv9qs
+name: ThumbsUpV9qs
+type: shield
+url: https://github.com/ak66666/ThumbsUpUnsplitV9qs
+requires: [pro_micro]
+features:
+  - keys
+  - pointer

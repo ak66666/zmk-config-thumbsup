@@ -1,0 +1,10 @@
+file_format: "1"
+id: thumbsupv5qs
+name: ThumbsUpV5qs
+type: shield
+url: https://github.com/ak66666/ThumbsUpV5MXProMicro
+requires: [pro_micro]
+features:
+  - keys
+  - pointer
+
